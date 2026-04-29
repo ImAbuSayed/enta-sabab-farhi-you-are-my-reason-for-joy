@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ضياء الروح في ليل الغرام
+> عطر أنفاسك يحيي فيا الهيام
+> لمسة يديك تذيب صمت السنين
+> أنت سري وأنت أجمل يقين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
